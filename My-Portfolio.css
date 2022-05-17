@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("/images/ttttt-min.jpg");
+  background-image: url("ttttt-min.jpg");
   background-position: 50% 50%;
 }
 
@@ -39,7 +39,7 @@
 .u-section-1 .u-image-1 {
   width: 239px;
   height: 239px;
-  background-image: url("/images/mypic.jpeg");
+  background-image: url("mypic.jpeg");
   background-position: 50% 50%;
   margin: 0 auto;
 }
